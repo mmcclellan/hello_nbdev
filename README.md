@@ -2,6 +2,11 @@
 > A tutorial for nbdev
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 This file will become your README and also the index of your documentation.
 
 ## Install
